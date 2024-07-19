@@ -5,6 +5,8 @@ body {
 }
 .header {
   border-bottom: 1px solid #e7e9fc;
+  box-shadow: 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16),
+    0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 .header-div {
   display: flex;
@@ -276,6 +278,8 @@ ol {
   background-color: #ffffff;
   width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 .img-comment-div {
   padding: 32px 0;
@@ -400,6 +404,8 @@ ol {
   height: 100%;
   width: 100%;
   transform: translateY(100%);
+}
+.c-ul-li:hover .c-ul-li-p {
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .footer {
