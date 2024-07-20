@@ -160,7 +160,6 @@ ol {
   background-position: center;
   background-size: cover;
   margin: 0 auto;
-  margin-top: 4px;
 }
 
 .header-section-h {
@@ -246,7 +245,6 @@ ol {
   letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 8px;
-  margin-top: 8px;
 }
 
 .section-two-p {
@@ -308,12 +306,12 @@ ol {
   text-align: center;
   color: #434455;
   text-align: center;
+  margin-top: 8px;
 }
 .contaner-b-name-ul {
   display: flex;
   justify-content: center;
   gap: 24px;
-  margin-top: 8px;
 }
 .contaner-b-name-ul-li {
   width: 40px;
@@ -466,12 +464,10 @@ ol {
   margin-bottom: 16px;
 }
 .container-link {
-  margin-left: 120px;
 }
 .contaner-name-ul {
   display: flex;
   gap: 16px;
-  margin-top: 16px;
 }
 .contaner-name-ul-li {
   width: 40px;
