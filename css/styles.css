@@ -160,6 +160,7 @@ ol {
   background-position: center;
   background-size: cover;
   margin: 0 auto;
+  margin-top: 4px;
 }
 
 .header-section-h {
