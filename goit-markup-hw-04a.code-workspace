@@ -4,7 +4,5 @@
 		"path": "."
 	}
 ],
-  "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "goit-markup-hw-04a"
-  }
+  "settings": {}
 }
