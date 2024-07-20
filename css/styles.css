@@ -159,6 +159,7 @@ ol {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  margin: 0 auto;
 }
 
 .header-section-h {
@@ -171,7 +172,7 @@ ol {
   color: #ffffff;
   margin: 0 auto;
   max-width: 496px;
-  margin-bottom: 10px;
+  margin-bottom: 48px;
 }
 
 .btn {
@@ -244,6 +245,7 @@ ol {
   letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 8px;
+  margin-top: 8px;
 }
 
 .section-two-p {
@@ -310,6 +312,7 @@ ol {
   display: flex;
   justify-content: center;
   gap: 24px;
+  margin-top: 8px;
 }
 .contaner-b-name-ul-li {
   width: 40px;
@@ -418,7 +421,7 @@ ol {
 }
 .footer-div {
   display: flex;
-  padding-left: 50px;
+
   align-items: baseline;
 }
 .container-logo-p {
@@ -461,9 +464,13 @@ ol {
   color: #ffffff;
   margin-bottom: 16px;
 }
+.container-link {
+  margin-left: 120px;
+}
 .contaner-name-ul {
   display: flex;
   gap: 16px;
+  margin-top: 16px;
 }
 .contaner-name-ul-li {
   width: 40px;
